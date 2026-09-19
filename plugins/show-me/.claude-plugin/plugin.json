@@ -1,0 +1,10 @@
+{
+  "name": "show-me",
+  "description": "Caderno de evidencias visual: acha a fonte primaria de cada dado e captura o print da pagina com o trecho destacado.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Flavio Pies"
+  },
+  "repository": "https://github.com/flaviomkpies/show-me",
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "show-me",
+  "description": "Prova visual de cada dado: acha a fonte primaria, captura o print da pagina com o trecho destacado e monta a ficha de prova.",
+  "owner": {
+    "name": "Flavio Pies"
+  },
+  "plugins": [
+    {
+      "name": "show-me",
+      "description": "Caderno de evidencias visual: acha a fonte primaria de cada dado e captura o print da pagina com o trecho destacado.",
+      "source": "./plugins/show-me",
+      "version": "1.0.0"
+    }
+  ]
+}
